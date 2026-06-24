@@ -10,4 +10,4 @@ Another useless calculator similar to San Calculator
 
 > Q: Will this marvolous calculator come to Mobile or MacOS?
 
-> A: No, because Apple sucks ass! Though, I'm currently working on the Android version because it keeps crashing.
+> A: No, because Apple sucks ass! Though, I'm currently fixing the Android version because it keeps crashing when doing the easter egg.
