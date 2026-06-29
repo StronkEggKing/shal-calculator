@@ -8,6 +8,12 @@ Another useless calculator similar to San Calculator
 
 ---
 
-> Q: Will this marvolous calculator come to Mobile or MacOS?
+> Q: Will this marvolous calculator come to IOS or MacOS?
 
-> A: No, because Apple sucks ass! Though, I'm currently fixing the Android version because it keeps crashing when doing the easter egg.
+> A: No, again, because Apple sucks ass!
+
+---
+
+> Q: What is the Mobile folder in the source code?
+
+> A: It contains the source code of the android port of the calculator. What makes it different? Different file system and engine (using Flet instead of Kivy).
