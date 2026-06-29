@@ -1,0 +1,17 @@
+[project]
+name = "shal-calculator"
+version = "1.0.0"
+description = "Šal Calculator"
+requires-python = ">=3.10"
+dependencies = [
+    "flet",
+    "flet-video",
+    "Pillow",
+]
+
+[tool.flet]
+org = "com.shal"
+product = "Šal Calculator"
+
+[tool.flet.app]
+path = "."
